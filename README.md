@@ -6,4 +6,4 @@
 - Fetches the latest EUR → SEK exchange rate from the [Frankfurter API](https://www.frankfurter.app/).
 - Sends the exchange rate via email using Gmail.
 - Logs all operations, warnings, and errors in a log file.
-- Can be scheduled to run automatically every day using **Windows Task Scheduler**.
+- Scheduled to run automatically every day using **Windows Task Scheduler** and sending email.
