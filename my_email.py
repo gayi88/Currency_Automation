@@ -11,7 +11,7 @@ def send_email(rate):
     try:
         sender = "gayathri.basarahalli@gmail.com"
         receiver = "vrameshreddy.63@gmail.com"
-        password = "owzu yhpb ppap uodu"  # Use App Password (for Gmail/Outlook)
+        password = "owzu yhpb ppap uodu"  #use encrypted password
 
         subject = "Daily EUR→SEK Exchange Rate"
         body = f"Today's EUR→SEK rate is: {rate}"
