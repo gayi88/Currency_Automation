@@ -1,4 +1,4 @@
-# Currency Automation Project: This Python project automatically fetches the **EUR → SEK** exchange rate every day and sends it via email.
+ Currency Automation Project: This Python project automatically fetches the **EUR → SEK** exchange rate every day and sends it via email.
 
 
 ## **Features**
